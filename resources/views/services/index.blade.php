@@ -14,7 +14,7 @@
                     </div>
                 @endif
             </div>
-            <div class="relative overflow-x-auto shadow-md sm:rounded-lg border-2 border-carribean drop-shadow-2xl">
+            <div class="relative overflow-x-auto shadow-2xl sm:rounded-lg border-2 border-carribean">
                 <table class="w-full text-sm text-left text-gray-500 ">
                     <thead class="text-xs text-seasalt uppercase bg-carribean ">
                         <tr>
